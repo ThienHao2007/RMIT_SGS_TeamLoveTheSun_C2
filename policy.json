@@ -1,0 +1,10 @@
+{
+  "limits": {
+    "value": 100
+  },
+  "sensitive_endpoints": [
+    "/limits",
+    "/policy/update"
+  ],
+  "version": 1
+}
